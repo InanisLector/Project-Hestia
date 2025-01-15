@@ -1,9 +1,9 @@
 {
-	"name": "vulcanus_expansion_pack",
+	"name": "vulcanus_heatpipes_expansion_pack",
 	"version": "0.0.1",
 	"title": "Vulcanus heatpipe expansion pack",
 	"author": "0x470627",
 	"factorio_version": "2.0",
 	"contact": "inanislector on discord",
-	"description": "This mod extends the use of heatpipes with Vulcanus technologies"
+	"description": "This mod is part of Hestia project, that extends the use of heatpipes with Vulcanus technologies"
 }
